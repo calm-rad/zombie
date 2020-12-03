@@ -1354,7 +1354,7 @@ Browser.strictSSL = false;
 Browser.localAddress = '0.0.0.0';
 
 // User agent string sent to server.
-Browser.userAgent = `Mozilla/5.0 Chrome/10.0.613.0 Safari/534.15 Zombie.js/${VERSION}`;
+Browser.userAgent = 'Mozilla/5.0 (Windows NT 6.1; rv:60.0) Gecko/20100101 Firefox/60.0';
 
 // Navigator language code
 Browser.language = 'en-US';
